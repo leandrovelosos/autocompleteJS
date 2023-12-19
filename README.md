@@ -18,7 +18,7 @@ Este projeto implementa um recurso de autocompletar para nomes de compositores d
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/leandrovelosos/autocompleteJS.git
 
 2. Abra o arquivo index.html em seu navegador.
 
